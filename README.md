@@ -1,2 +1,3 @@
 # Narita_haku_Ubuntu_desktopold1
 以前我的Ubuntu系统的桌面文件，因为要重装系统，于是就把文件拖出来了
+纪念技术学科高分97/100
